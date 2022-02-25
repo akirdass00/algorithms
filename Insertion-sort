@@ -1,4 +1,4 @@
- # Patika.dev - İnsertion short Project
+ # Patika.dev - İnsertion short Project.
 
 En basit sorting uygulamalarından biridir. Verilen örüntüye ait en küçük sayıyı bulup, en baştaki ile yer değiştirir. Sonra en küçük 2. elemanı  bulup 2. sıra ile değşitirir. 3, 4, 5 te de aynı işlemi uygular.
 
